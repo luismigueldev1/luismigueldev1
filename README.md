@@ -10,7 +10,8 @@ const lrodve = {
 ```
 
 You can find me:
-
+ [Twitter](https://twitter.com/lrodve/)
+ [Linkedin](https://www.linkedin.com/in/lrodve/)
 
 
 <!--
