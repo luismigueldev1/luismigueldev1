@@ -9,9 +9,11 @@ const lrodve = {
 
 ```
 
-You can find me:
- [Twitter](https://twitter.com/lrodve/)
- [Linkedin](https://www.linkedin.com/in/lrodve/)
+You can find me on:
+ - [Twitter](https://twitter.com/lrodve/)
+ - [Linkedin](https://www.linkedin.com/in/lrodve/)
+ 
+ 🔍 Looking for remote job.
 
 
 <!--
