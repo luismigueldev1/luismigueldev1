@@ -10,8 +10,8 @@ const lrodve = {
 ```
 
 You can find me on:
- - [Twitter](https://twitter.com/lrodve/)
- - [Linkedin](https://www.linkedin.com/in/lrodve/)
+ - [Twitter](https://twitter.com/luismigueldev/)
+ - [Linkedin](https://www.linkedin.com/in/luismigueldev/)
  
  Looking for a job 👷‍♂️
 
