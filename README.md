@@ -1,15 +1,16 @@
-### Hi i'm Luis Miguel Rodriguez 👋
+### Hola mi nombre es: Luis Miguel Rodriguez 👋
 
 ```js
 
 const lrodve = {
   code: [HTML, CSS, JavaScript, Python]
-  stack: [React, React Native, Next, Styled Components, NodeJS ]
+  stack: [React, React Native, Next, NodeJS ]
 }
 
 ```
 
-You can find me on:
+Puedes encontrarme en:
+ - [Portafolio](https://luismigueldev.vercel.app/)
  - [Twitter](https://twitter.com/luismigueldev/)
  - [Linkedin](https://www.linkedin.com/in/luismigueldev/)
  
