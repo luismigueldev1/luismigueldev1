@@ -13,7 +13,7 @@ You can find me on:
  - [Twitter](https://twitter.com/luismigueldev/)
  - [Linkedin](https://www.linkedin.com/in/luismigueldev/)
  
- Looking for a job 👷‍♂️
+ En busqueda de mi primera oportunidad de empleo. 👷‍♂️
 
 
 <!--
