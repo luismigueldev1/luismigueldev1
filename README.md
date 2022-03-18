@@ -14,7 +14,6 @@ Puedes encontrarme en:
  - [Twitter](https://twitter.com/luismigueldev/)
  - [Linkedin](https://www.linkedin.com/in/luismigueldev/)
  
- En busqueda de mi primera oportunidad de empleo. 👷‍♂️
 
 
 <!--
