@@ -2,7 +2,7 @@
 
 ```js
 
-const lrodve = {
+const luismigueldev = {
   code: [HTML, CSS, JavaScript, Python]
   stack: [React, React Native, Next, NodeJS ]
 }
